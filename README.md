@@ -1,6 +1,6 @@
 ### Lucy Guzmán 🖍
 
-Hi there~. My name is Ana Lucia, but everyone calls me Lucy.
+Hi there~. My name is Ana Lucia, but everyone calls me Lucy. And I like it.
 
 I am a student of an engineering career in software development, and the programming languages that I'm learning, and hope to dominate, are CSS, C#, JavaScript, C++, and others. Of course, I'm open to learn about more languajes/technologies.
 
