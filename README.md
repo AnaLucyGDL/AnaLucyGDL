@@ -1,12 +1,14 @@
 ### Lucy Guzmán 🖍
 
-Hi there~. My name is Ana Lucia, but everyone calls me Lucy. And I like it.
+Hi there~. My name is Ana Lucia, but everyone calls me Lucy and I like it.
 
 I am a student of an engineering career in software development, and the programming languages that I'm learning, and hope to dominate, are CSS, C#, JavaScript, C++, and others. Of course, I'm open to learn about more languajes/technologies.
 
-• I have the goal of working in a company as a programmer, tester or designer. It's always better to have more than just one option.
+• I have the goal of working in a company as a programmer, designer or tester. It's always better to have more than just one option.
 
 • I'm currently searching for projects to learn with.
+
+• Improving my habilities little by little to give the best of me on every work I'm into.
 
 <!--
 **AnaLucyGDL/AnaLucyGDL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
